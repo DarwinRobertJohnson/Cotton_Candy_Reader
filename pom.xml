@@ -5,12 +5,30 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
+
+    <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx</artifactId>
+      <version>22-ea+16</version>
+      <type>pom</type>
+    </dependency>
+
+
+    <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx</artifactId>
+      <version>22-ea+16</version>
+      <type>pom</type>
+    </dependency>
+
 	  
 <dependency>
     <groupId>com.positiondev.epublib</groupId>
     <artifactId>epublib-core</artifactId>
     <version>3.1</version>
 </dependency>
+
+
 
   </dependencies>
   
